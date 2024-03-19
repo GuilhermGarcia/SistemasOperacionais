@@ -3,7 +3,7 @@ Isabella de Castro Jorge - RA 10409762
 Guilherme Garcia LIma - RA 10409637
 
 1)Rode o programa anterior para valores grandes de n. As mensagens sempre estar˜ao ordenadas pelo valor de i?
----> Aparentemente sim. Testamos com o valor de 100.000 e as mensagens ainda apreciam ordenadas pelo o i.
+---> Aparentemente sim. Testamos com o valor de 1.000.000 e as mensagens ainda apareciam ordenadas pelo o i.  
 
 2) O que acontece se o programa anterior escreve-se as mensagens para sys.stdout, usando print, ao inves de para sys.stderr?
 ---> (sys.stderr) para (sys.stdout, usando print)
